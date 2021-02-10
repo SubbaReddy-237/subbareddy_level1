@@ -31,7 +31,7 @@ float depth()
 float breadth()
 {
    float c;
-   printf("Enter the D of tromboloid:");
+   printf("Enter the B of tromboloid:");
    scanf("%f",&c);
    return c;
 }
